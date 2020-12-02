@@ -1,2 +1,3 @@
-# calcification_geochem
-Models of the goechemistry of calcification
+# Models for the Geochemistry of Calcification
+
+Python implementations of models describing the geochemistry of inorganic and biomineral carbonates.
